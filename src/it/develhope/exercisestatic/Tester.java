@@ -15,6 +15,8 @@ public class Tester {
         employee1=new Employee("Tania", "Ielpo", "via Dante,13");
         employee2=new Employee("Stefano","Rossi", "via Roma,23");
 
+
+        
         //declaration and creation of 2 badges and relative association with employees
         Badge badge1, badge2;
         badge1= new Badge(employee1);
